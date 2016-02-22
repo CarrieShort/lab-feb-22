@@ -2,6 +2,9 @@
 .container {
   font-family: sans-serif;
 }
+a {
+  color: #378ED1;
+}
 header {
 
 }
@@ -15,6 +18,14 @@ nav {
 
 }
 .social {
+
+}
+.overview p {
+  font-size: 15px;
+
+}
+.overview .farenheight {
+  font-size: 45px;
 
 }
 .panel-body {
@@ -39,7 +50,7 @@ nav {
 
 }
 .panel-head h2{
-
+  font-size: 18px;
 }
 .bold {
   font-weight: bold;
