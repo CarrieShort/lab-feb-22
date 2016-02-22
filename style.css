@@ -1,1 +1,68 @@
 /* CSS */
+.container {
+  font-family: sans-serif;
+}
+header {
+
+}
+.briefing {
+
+}
+nav {
+ font color:#666666;
+}
+.top-area {
+
+}
+.social {
+
+}
+.panel-body {
+  flex-direction: row
+}
+.local-forecast {
+
+}
+.search {
+
+}
+.result {
+
+}
+.panel {
+
+}
+.panel-head {
+
+}
+.panel-head h2 span{
+
+}
+.panel-head h2{
+
+}
+.bold {
+  font-weight: bold;
+}
+.panel-head p{
+
+}
+.details th{
+  font-weight: bold
+  color: #413839;
+}
+.overview {
+
+}
+.day {
+
+}
+.weather {
+
+}
+.temp.high {
+  color: red;
+}
+.temp.low {
+  color: #4d94ff;
+}
